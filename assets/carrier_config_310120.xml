@@ -11,7 +11,6 @@
         <int name="recipientLimit" value="40" />
         <int name="maxImageHeight" value="1944" />
         <boolean name="enableMMSDeliveryReports" value="false" />
-        <boolean name="apn_expand_bool" value="false" />
         <int name="maxSubjectLength" value="80" />
         <string name="httpParams">X-MDN: ##LINE1##|Proxy-Authorization: Basic ##NAI##</string>
         <boolean name="show_cdma_choices_bool" value="true" />

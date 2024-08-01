@@ -16,7 +16,6 @@
         <string name="uaProfTagName">Profile</string>
         <int name="aliasMaxChars" value="48" />
         <int name="maxImageHeight" value="1944" />
-        <boolean name="apn_expand_bool" value="false" />
         <int name="maxSubjectLength" value="80" />
         <string name="httpParams">x-up-calling-line-id: 1##LINE1NOCOUNTRYCODE##|X-VzW-MDN: 1##LINE1NOCOUNTRYCODE##</string>
         <string name="emailGatewayNumber">6245</string>
@@ -27,7 +26,6 @@
         <int name="volte_replacement_rat_int" value="6" />
         <boolean name="enabledNotifyWapMMSC" value="true" />
         <boolean name="enableMultipartSMS" value="true" />
-        <boolean name="allow_adding_apns_bool" value="false" />
         <boolean name="broadcast_emergency_call_state_changes_bool" value="true" />
         <string name="carrier_eri_file_name_string">eri_311480.xml</string>
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
@@ -55,28 +53,6 @@
         <boolean name="persist_lpp_mode_bool" value="true" />
         <boolean name="mmsCloseConnection" value="true"/>
         <int name="wfc_spn_format_idx_int" value="1" />
-        <string-array name="read_only_apn_fields_string_array" num="20">
-            <item value="name" />
-            <item value="proxy" />
-            <item value="port" />
-            <item value="user" />
-            <item value="password" />
-            <item value="server" />
-            <item value="mmsc" />
-            <item value="mmsproxy" />
-            <item value="mmsport" />
-            <item value="mcc" />
-            <item value="mnc" />
-            <item value="authtype" />
-            <item value="type" />
-            <item value="protocol" />
-            <item value="roaming_protocol" />
-            <item value="bearer" />
-            <item value="bearer_bitmask" />
-            <item value="carrier_enabled" />
-            <item value="mvno_type" />
-            <item value="mvno_match_data" />
-        </string-array>
         <string-array name="carrier_metered_apn_types_strings" num="3">
             <item value="default" />
             <item value="dun" />

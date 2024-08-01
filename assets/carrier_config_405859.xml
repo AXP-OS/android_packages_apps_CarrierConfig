@@ -3,7 +3,6 @@
     <carrier_config>
         <boolean name="carrier_volte_available_bool" value="true"/>
         <int name="volte_replacement_rat_int" value="3"/>
-        <boolean name="hide_ims_apn_bool" value="true"/>
         <string-array name="roaming_operator_string_array" num="2">
             <item value="404"/>
             <item value="405"/>
